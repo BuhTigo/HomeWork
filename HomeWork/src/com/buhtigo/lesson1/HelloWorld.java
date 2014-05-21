@@ -4,7 +4,7 @@
 package com.buhtigo.lesson1;
 
 /**
- * @author ATR
+ * @author BuhTigo
  *
  */
 public class HelloWorld {
